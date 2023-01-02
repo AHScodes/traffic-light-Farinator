@@ -1,6 +1,6 @@
 import time
 
-
+#Amazing project if Arduino is setup. needs Accompanying Arduino image
 class TrafficLight:
 
   STATE = ['red', 'green', 'yellow']
